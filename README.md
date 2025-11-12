@@ -13,6 +13,7 @@
 
 #### 🎨 Programming languages
 - Rust
+- Python
 - JavaScript
 - TypeScript
 
