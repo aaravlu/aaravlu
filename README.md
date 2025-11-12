@@ -15,8 +15,6 @@
 - Rust
 - JavaScript
 - TypeScript
-- Node.js
-- Deno
 
 #### 💼 Databases
 - PostgreSQL
