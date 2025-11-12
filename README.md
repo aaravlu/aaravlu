@@ -1,4 +1,4 @@
-## 🌾 Yiming Lu
+## 🦀️Yiming Lu
 
 &ensp;🛠 Full-stack software engineer.
 
