@@ -4,7 +4,7 @@
 
 &ensp;📝 Having been coding more than 4 years.
 
-&ensp;🔭 Current focuses on Rust and React.
+&ensp;🔭 Current focuses on Rust, TypeScript, and Python.
 
 &ensp;💖 General interest in mathematics, physics, computer science and quantitative finance.
 
