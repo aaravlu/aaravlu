@@ -9,7 +9,7 @@
 
 #### 💼 Databases
 - Postgres
-- Sqilte
+- Sqlite
 
 #### 🌐 Web frameworks
 - React.js
