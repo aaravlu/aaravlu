@@ -8,7 +8,7 @@
 - TypeScript
 
 #### 💼 Databases
-- PostgreSQL
+- Postgres
 - Sqilte
 
 #### 🌐 Web frameworks
